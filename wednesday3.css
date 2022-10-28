@@ -1,0 +1,15 @@
+.row div{
+    height: 200px;
+    color: red;
+    font-size: 26px;
+}
+a:link{
+    color: red;
+    font-size: 26px;
+}
+a:hover{
+    color: green;
+}
+a:active{
+    color: tomato;
+}

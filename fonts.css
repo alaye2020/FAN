@@ -1,0 +1,282 @@
+
+@font-face {
+    font-family: akayatelivigala;
+    src: url(../font/fonts/Akaya_Telivigala/);
+}
+@font-face {
+    font-family: cream cheese;
+    src: url(../font/);
+}
+@font-face {
+    font-family: amichan;
+    src: url(../font/Amichan.otf);
+}
+@font-face {
+    font-family: anhay;
+    src: url(../font/Anhay.otf);
+}
+@font-face {
+    font-family: asikue;
+    src: url(../font/asikue-trial.zip);
+}
+@font-face {
+    font-family: auralyess;
+    src: url(../font/auralyess-free-trial.zip);
+}
+@font-face {
+    font-family: baguile;
+    src: url(../font/baguile.zip);
+}
+@font-face {
+    font-family: balin;
+    src: url(../font/balin-quiny.zip);
+}
+@font-face {
+    font-family: barnice;
+    src: url(../font/barnice-free-trial.zip);
+}
+@font-face {
+    font-family: bedda;
+    src: url(../font/bedda.zip);
+}
+@font-face {
+    font-family: bellecia-felipe;
+    src: url(../font/bellecia-felipe-demo.zip);
+}
+@font-face {
+    font-family: black-pumpkin;
+    src: url(../font/black-pumpkin.zip);
+}
+@font-face {
+    font-family: blockway;
+    src: url(../font/blockway.zip);
+}
+@font-face {
+    font-family: bulan;
+    src: url(../font/bulan.zip);
+}
+@font-face {
+    font-family: curly-rose;
+    src: url(../font/curly-rose-demo.zip);
+}
+@font-face {
+    font-family: etboemierex;
+    src: url(../font/etboemierex.zip);
+}
+@font-face {
+    font-family: ghost-festival;
+    src: url(../font/ghost-festival.zip);
+}
+@font-face {
+    font-family: gingo-personal;
+    src: url(../font/gingo-personal-use.zip);
+}
+@font-face {
+    font-family: grinder;
+    src: url(../font/grinder.zip);
+}
+@font-face {
+    font-family: halloween-in-autumn;
+    src: url(../font/halloween-in-autumn.zip);
+}
+@font-face {
+    font-family: hello-monster;
+    src: url(../font/hello-monster.zip);
+}
+@font-face {
+    font-family: kamada;
+    src: url(../font/kamada.zip);
+}
+@font-face {
+    font-family: licoriece;
+    src: url(../font/licoriece.zip);
+}
+@font-face {
+    font-family: luminous-canded;
+    src: url(../font/luminous-canded-demo.zip);
+}
+@font-face {
+    font-family: magic-candy;
+    src: url(../font/magic-candy.zip);
+}
+@font-face {
+    font-family: marble-crimson;
+    src: url(../font/marble-crimson-demo.zip);
+}
+@font-face {
+    font-family: mathelica;
+    src: url(../font/mathelica.zip);
+}
+@font-face {
+    font-family: mountis;
+    src: url(../font/mountis.zip);
+}
+@font-face {
+    font-family: neon-himale;
+    src: url(../font/neon-himala.zip);
+}
+@font-face {
+    font-family: orlean-city;
+    src: url(../font/orlean-city-demo.zip);
+}
+@font-face {
+    font-family: panderman;
+    src: url(../font/panderman.zip);
+}
+@font-face {
+    font-family: paraoh;
+    src: url(../font/paraoh.zip);
+}
+@font-face {
+    font-family: mike;
+    src: url(../alterna.ttf);
+}
+.akayatelivigala{
+    font-family: akayatelivigala;
+}
+.creamcheese{
+    font-family: cream cheese;
+}
+.amichan{
+    font-family: amichan;
+}
+.anhay{
+    font-family: anhay;
+}
+.asikue{
+    font-family: asikue;
+}
+.auralyess{
+    font-family: auralyess;
+}
+.baguile{
+    font-family: baguile;
+}
+.balinquiny{
+    font-family: balin-quiny;
+}
+.bedda{
+    font-family: bedda;
+}
+.belleciafelipe{
+    font-family: bellecia-felipe;
+}
+.blackpumpkin{
+    font-family: black-pumpkin;
+}
+.blockay{
+    font-family: blockway;
+}
+.bulan{
+    font-family: bulan;
+}
+.curlyrose{
+    font-family: curly-rose;
+}
+.ethboemierex{
+    font-family: ethboemierex;
+}
+.ghostfestival{
+    font-family: ghost-festival;
+}
+.gingopersonal{
+    font-family: gingo-personal;
+}
+.grinder{
+    font-family: grinder;
+}
+.halloweeninautumn{
+    font-family: halloween-in-autumn;
+}
+.hellomonster{
+    font-family: hello-monster;
+}
+.kamada{
+    font-family: kamada;
+}
+.licoriece{
+    font-family: licoriece;
+}
+.luminouscanded{
+    font-family: luminous-canded;
+}
+.magiccandy{
+    font-family: magic-candy;
+}
+.marblecrimson{
+    font-family: marble-crimson;
+}
+.mathelica{
+    font-family: mathelica;
+}
+.mountis{
+    font-family: mountis;
+}
+.neonhimala{
+    font-family: neon-himala;
+}
+.orleancity{
+    font-family: orlean-city;
+}
+.panderman{
+    font-family: panderman;
+}
+.paraoh{
+    font-family: paraoh;
+}
+.pinkponk{
+    font-family: pinkponk;
+}
+.rainstakers{
+    font-family: rainstaker;
+}
+.ranchel{
+    font-family: ranchel;
+}
+.rollanisa{
+    font-family: rollanisa;
+}
+.soliden{
+    font-family: soliden;
+}
+.soulbillan{
+    font-family: soul-billani;
+}
+.swoxest{
+    font-family: swoxest;
+}
+.wildnote{
+    font-family: wildnote;
+}
+.alterna{
+    font-family: mike;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

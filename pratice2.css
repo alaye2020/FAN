@@ -1,0 +1,105 @@
+.w2{
+    background-color: lightgrey;
+    width: 300px;
+    border: 15px solid green;
+    padding:50px;
+    margin: 400px;
+  }
+.w3{
+    background-color: lightgrey;
+    width: 1500px;
+    border: 15px solid green;
+    padding: 30px;
+    margin: 50px;
+}
+p.ex1 {
+    border: 2px solid black;
+    outline-style: solid;
+    outline-color: red;
+  }
+  
+  p.ex2 {
+    border: 2px solid black;
+    outline-style: dotted;
+    outline-color: blue;
+  }
+  
+  p.ex3 {
+    border: 2px solid black;
+    outline-style: outset;
+    outline-color: grey;
+
+  }
+  #customers {
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  #customers td, #customers th {
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
+  
+  #customers tr:nth-child(even){background-color: #f2f2f2;}
+  
+  #customers tr:hover {background-color: #ddd;}
+  
+  #customers th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #04AA6D;
+    color: white;
+  }
+
+
+
+
+
+.wire{
+    color: white;
+    background-color: red;
+    border: 3px solid black;
+}
+
+
+
+
+
+
+
+
+
+.tree{
+    width: 120px;
+}
+
+.tree-layer{
+    width: 10px;
+    height: 10px;
+    border-left: 40px solid transparent;
+    border-right: 40px solid transparent;
+    background-color: green;
+}
+.tre{
+    width: 10px;
+    height: 10px;
+    border-left: 50px solid transparent;
+    border-right: 50px solid transparent;
+    background-color: green;
+}
+.tre3{
+    width: 0;
+    height: 0;
+    border-left: 40px solid transparent;     
+    border-right: 40px solid transparent;
+    background-color: green;
+}
+.gbmi{
+    width: 50px;
+    height: 50px;
+    border: white;
+    background-color: green;
+
+}

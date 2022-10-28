@@ -1,0 +1,148 @@
+@import url(../icon/fontawesome-free-6.1.2-web/fontawesome-free-6.1.2-web/css/all.css);
+html,body{
+    margin: 0px;
+    padding: 0px;
+}
+
+.body1{
+    width: 200px;
+    height: 750px;
+    border: 2px solid white;
+    background-color: blue;
+    border-bottom-left-radius: 40px;
+    border-top-left-radius: 40px;
+    border-bottom-right-radius: 40px;
+    border-top-right-radius: 40px;
+}
+.body2{
+    width: 1450px;
+    height: 1250px;
+    background-color: grey;
+    border-bottom-left-radius: 40px;
+    border-top-left-radius: 40px;
+    margin-left: 150px;
+    margin-top: -670px;
+}
+.ewq{
+    width: 90px;
+    height: 60px;
+    background-image: url(../image/IA.png);
+    background-color: blue;
+    background-size: cover;
+    margin-top: 40px;
+    margin-left: 40px;
+    border: 1px solid blue;
+}
+.fa-arrow-trend-up{
+    margin-top: 140px;
+    margin-left: 40px;
+}
+.ytg{
+    margin-left: 70px;
+    margin-top: -20px;
+}
+.fa-question{
+    margin-top: 40px;
+    margin-left: 40px;
+}
+.zaq{
+    margin-top: -20px;
+    margin-left: 70px;
+}
+.fa-user{
+    margin-top: 40px;
+    margin-left: 40px;
+}
+.mnb{
+    margin-top: -20px;
+    margin-left: 70px;
+}
+.fa-box{
+    margin-top: 40px;
+    margin-left: 40px;
+}
+.jik{
+    margin-top: -20px;
+    margin-left: 70px;
+}
+.fa-file{
+    margin-top: 40px;
+    margin-left: 40px;
+}
+.wed{
+    margin-top: -20px;
+    margin-left: 70px;
+}
+.fa-gear{
+    margin-top: 40px;
+    margin-left: 40px;
+}
+.lop{
+    margin-top: -20px;
+    margin-left: 70px;
+}
+.fa-arrow-right-from-bracket{
+    margin-top: 120px;
+    margin-left: 40px;
+}
+.fvb{
+    margin-top: -20px;
+    margin-left: 70px;
+}
+.header1 input{
+    height: 30px;
+    border: none;
+    width: 407px;
+    background-color: white;
+    padding: 10px;
+    font-size: 17px;
+    margin-left: 40px;
+    margin-top: 30px;
+    border-bottom-left-radius: 20px;
+    border-top-left-radius: 20px;
+}
+.hbg{
+    display: flex;
+
+}
+.header1 button{
+    height: 50px;
+    border: none;
+    width: 40px;
+    font-size: 25px;
+    background-color: white;
+    padding: 10px;
+    margin-left: -1pxpx;
+    margin-top: 30px;
+    border-bottom-left-radius: 20px;
+    border-top-left-radius: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

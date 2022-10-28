@@ -1,0 +1,88 @@
+@import url(../icon/fontawesome-free-6.1.2-web/fontawesome-free-6.1.2-web/css/all.css);
+html,body{
+    margin: 0px;
+    padding: 0px;   
+}
+
+.header1{
+    width: 1200px;
+    height: 40px;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 40px;
+    margin-left: 200px;
+    background-color: blue;
+}
+.ytg{
+    margin-left: 100px;
+    margin-top: -25px;
+    color: white;
+    
+  }
+  .tg{
+    margin-left: 200px;
+    margin-top: -17px;
+    color: white;
+    display: flex;
+  }
+  .wa{
+    margin-left: 300px;
+    margin-top: -17px;
+    color: white;
+    display: flex;
+  }
+  .tra{
+    margin-left: 350px;
+    margin-top: -17px;
+    color: white;
+  }
+  .pro{
+    margin-left: 450px;
+    margin-top: -15px;
+    color: white;
+    display: flex;
+  }
+  .fa-gear{
+    margin-left: 650px;
+    margin-top: -17px;
+    color: white;
+  }
+  .aqa{
+    margin-top: -19px;
+  }
+  .fa-message{
+    margin-left: 700px;
+    margin-top: -90px;
+    color: white;
+  }
+  .sss{
+    margin-top: -17px;
+  }
+  .fa-bell{
+    margin-left: 750px;
+    margin-top: -90px;
+    color: white;
+  }
+  .vvv{
+    margin-top: -19px;
+  }
+  .eee{
+    margin-left: 800px;
+    margin-top: -20px;
+    font-size: 20px;
+    color: white;
+  }
+  .ccc{
+    margin-left: 950px;
+    margin-top: -19px;
+    color: white;
+  }
+
+.header2{
+    width: 1200px;
+    height: 1000px;
+    border: 1px solid grey;
+    margin-left: 0px;
+    margin-top: -5px;
+    background-color: grey;
+  }

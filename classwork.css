@@ -1,0 +1,17 @@
+.tv{
+    width: 600px;
+    height: 370px;
+    border: 5px solid black;
+    margin-top: 140px;
+    margin-left: 250px;
+    background-color: rgba(0, 0, 0, 0.397);
+}
+.tv_inner{
+    width: 350px;
+    height: 250px;
+    border: 3px solid black;
+    margin-top: 70px;
+    margin-left: 120px;
+    background-image: url(./images.jpg);
+    background-size: cover;
+}

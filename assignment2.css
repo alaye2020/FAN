@@ -1,0 +1,14 @@
+#body{
+    background: #dad2d8;
+}
+.welcome{
+    color: white;
+    background-color: #e14607;
+}
+
+#h1{
+    background-image: url(./images.jpg);
+    height: 400px;
+    background-repeat:  no-repeat;
+    background-size: contain;
+}
